@@ -23,7 +23,7 @@ Enjoy adaptability that caters to the unique requirements of different assignmen
 
 
 
-### How It Works:
+## How It Works:
 
 Upload Assignment: Simply upload the assignment document (in PDF format) containing student submissions. (Grading.pdf)
 
