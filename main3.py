@@ -9,9 +9,9 @@ import streamlit as st
 from wxai_langchain.llm import LangChainInterface
 from wxai_langchain.credentials import Credentials
 creds =Credentials(
-    api_key= '65x4dxLCwZl4ALJsMvDYieZoS_QZqlDvnvRwJ3dHRyVZ',
+    api_key= 'Efh1IgL4tblBQ2GQ5u5y7YX_VsPoiB-Q4oVGT5Jgvvtg',
     api_endpoint=  'https://us-south.ml.cloud.ibm.com',
-    project_id = '17ed1163-812a-4d9f-b9b4-45f83af41994'
+    project_id = 'e2066d3e-4c83-453a-8e5a-ed09b23a2982'
 )
 
 llm = LangChainInterface(
