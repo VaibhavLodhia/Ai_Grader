@@ -40,10 +40,10 @@ httptools==0.6.1
 huggingface-hub==0.20.3
 humanfriendly==10.0
 ibm-cloud-sdk-core==3.18.0
-ibm-cos-sdk==2.11.*
-ibm-cos-sdk-core==2.11.0
-ibm-cos-sdk-s3transfer==2.11.*
-ibm-watson-machine-learning==1.0.333
+ibm-cos-sdk==2.13.4
+ibm-cos-sdk-core==2.13.4
+ibm-cos-sdk-s3transfer==2.13.4
+ibm-watson-machine-learning==1.0.345
 idna==3.6
 importlib-metadata==6.11.0
 importlib-resources==6.1.1
