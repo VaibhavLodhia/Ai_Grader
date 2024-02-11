@@ -110,6 +110,7 @@ python-dateutil==2.8.2
 python-dotenv==1.0.1
 pytz==2024.1
 PyYAML==6.0.1
+pysqlite3
 referencing==0.33.0
 regex==2023.12.25
 requests==2.31.0
@@ -135,7 +136,6 @@ srsly==2.4.8
 starlette==0.36.3
 streamlit==1.31.0
 sympy==1.12
-sqlite3 
 tabulate==0.9.0
 tenacity==8.2.3
 thinc==8.2.3
