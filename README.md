@@ -1,4 +1,4 @@
-# AI Graader
+# AI Grader
 ## Streamline Your Grading with AI Grader: Smarter, Faster, Fairer!
 
 Welcome to AI Grader, an AI tool designed to simplify the often cumbersome process of grading student assignments. This application harnesses the power of artificial intelligence to streamline and enhance the grading experience for educators.
