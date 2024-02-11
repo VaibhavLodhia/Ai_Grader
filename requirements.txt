@@ -47,7 +47,7 @@ ibm-cloud-sdk-core >= 3.18.0
 ibm-cos-sdk >= 2.13.4
 ibm-cos-sdk-core >= 2.13.4
 ibm-cos-sdk-s3transfer >= 2.13.4
-ibm-watson-machine-learning 
+ibm-watson-machine-learning = 1.0.333
 idna >= 3.6
 importlib-metadata >= 6.11.0
 importlib-resources >= 6.1.1
@@ -92,7 +92,6 @@ opentelemetry-semantic-conventions >= 0.43b0
 opentelemetry-util-http >= 0.43b0
 overrides >= 7.7.0
 packaging >= 23.2
-pandas >= 1.5.3
 pillow >= 10.2.0
 pip >= 24.0
 posthog >= 3.4.0
