@@ -47,7 +47,7 @@ ibm-cloud-sdk-core >= 3.18.0
 ibm-cos-sdk >= 2.13.4
 ibm-cos-sdk-core >= 2.13.4
 ibm-cos-sdk-s3transfer >= 2.13.4
-ibm-watson-machine-learning >= 1.0.335
+ibm-watson-machine-learning 
 idna >= 3.6
 importlib-metadata >= 6.11.0
 importlib-resources >= 6.1.1
