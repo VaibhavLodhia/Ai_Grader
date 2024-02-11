@@ -24,7 +24,7 @@ confection==0.1.4
 cymem==2.0.8
 dataclasses-json==0.6.4
 Deprecated==1.2.14
-fastapi==0.109.2
+fastapi==0.85.1
 filelock==3.13.1
 flatbuffers==23.5.26
 frozenlist==1.4.1
